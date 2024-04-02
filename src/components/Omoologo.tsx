@@ -3,7 +3,7 @@ import { block } from "million/react";
 export const OmoOlogoRenderer = () => {
   return (
     <div>
-      <h1>Hello, Million with Webpack!</h1>
+      <h1>Hello, Million with Astro!</h1>
       <OmoOlogo />
       <OmoOlogoBlock />
     </div>
